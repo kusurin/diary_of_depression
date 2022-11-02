@@ -58,6 +58,7 @@
 **2022/10/30更新：\*\*\*，一开始就是想骗我来这个破专业，\*\*\*，还误会**
 <div style="text-align:center">
  <img src="https://raw.githubusercontent.com/kusurin/diary_of_depression/main/pic/1.png"  height = "400" alt=""/>
+ <p></p>
  </div>
 
 辅导员问我为什么后来帮父母帮得少了（我从小学开始帮他们使用CAD等进行平面图绘制和装修效果出图），我回答：“因为从初中开始住校了”她却说：“你觉得真的是这个原因吗？”
